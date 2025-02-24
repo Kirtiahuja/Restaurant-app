@@ -1,0 +1,291 @@
+[
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.OrderController",
+    "Method": "getorders",
+    "RelativePath": "api/Order",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apikey",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.OrderController",
+    "Method": "getordersbyid",
+    "RelativePath": "api/Order/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apikey",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.OrderController",
+    "Method": "deleteorder",
+    "RelativePath": "api/Order/{Order_id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Order_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "apikey",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.OrderController",
+    "Method": "setorder",
+    "RelativePath": "api/Order/{restaurantid}/makeorder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurantid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "apikey",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "menuDTO",
+        "Type": "FakeRestuarantAPI.Models.MenuDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.OrderController",
+    "Method": "master",
+    "RelativePath": "api/Order/master/{master_id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "master_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "apikey",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.RestaurantController",
+    "Method": "getrestaurants",
+    "RelativePath": "api/Restaurant",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.RestaurantController",
+    "Method": "addrestaurant",
+    "RelativePath": "api/Restaurant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurantDTO",
+        "Type": "FakeRestuarantAPI.Models.RestaurantDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.RestaurantController",
+    "Method": "getrestaurantbyid",
+    "RelativePath": "api/Restaurant/{Restaurant_id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Restaurant_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.RestaurantController",
+    "Method": "setmenu",
+    "RelativePath": "api/Restaurant/{Restaurant_id}/additem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Restaurant_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "itemDTO",
+        "Type": "FakeRestuarantAPI.Models.ItemDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.RestaurantController",
+    "Method": "getmenu",
+    "RelativePath": "api/Restaurant/{Restaurant_id}/menu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Restaurant_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.RestaurantController",
+    "Method": "getitems",
+    "RelativePath": "api/Restaurant/items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ItemName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortbyprice",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.UserController",
+    "Method": "getusers",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/User/{apikey}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apikey",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User/{apikey}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apikey",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "NewPassword",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.UserController",
+    "Method": "getusercode",
+    "RelativePath": "api/User/getusercode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FakeRestuarantAPI.Controllers.UserController",
+    "Method": "registeruserAsync",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDTO",
+        "Type": "FakeRestuarantAPI.Models.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

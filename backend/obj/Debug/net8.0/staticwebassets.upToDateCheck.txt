@@ -1,0 +1,86 @@
+wwwroot\Docs.html
+wwwroot\images\afghan kebabs.jpg
+wwwroot\images\Amritsari-fish.webp
+wwwroot\images\bagara baigan.webp
+wwwroot\images\baklava.jpg
+wwwroot\images\bengali thali.jpg
+wwwroot\images\berry pulav.jpeg
+wwwroot\images\bombli fry.jpg
+wwwroot\images\bukhara murg.jpg
+wwwroot\images\butter chicken.jpg
+wwwroot\images\chettinad chicken.jpg
+wwwroot\images\Chicken-Haleem.jpg
+wwwroot\images\chickenn biryani.webp
+wwwroot\images\Chicken-Shawarma.jpg
+wwwroot\images\Chingri-Malai-Curry.jpg
+wwwroot\images\chole batura.jpg
+wwwroot\images\coffee.jpg
+wwwroot\images\dal bati churma.jpg
+wwwroot\images\dal bhukara.jpg
+wwwroot\images\Dal-Makhani.webp
+wwwroot\images\Dosa.jpg
+wwwroot\images\Double-ka-Meetha.jpg
+wwwroot\images\filter-coffee.jpg
+wwwroot\images\firni.jpg
+wwwroot\images\fish curry.jpg
+wwwroot\images\Fish-Molee.jpg
+wwwroot\images\foodorder.png
+wwwroot\images\ghevar.jpg
+wwwroot\images\green curry.jpg
+wwwroot\images\grilled salmon.jpg
+wwwroot\images\Gulab-Jamun.jpg
+wwwroot\images\haleem.jpg
+wwwroot\images\hyderabad biryani.jpg
+wwwroot\images\idli sambar.jpg
+wwwroot\images\karim's biryani.jpg
+wwwroot\images\kebabs.jpg
+wwwroot\images\KEEMAMUTTON.webp
+wwwroot\images\kerala sadya.jpeg
+wwwroot\images\koftacurry.jpg
+wwwroot\images\kosha mangsho.jpg
+wwwroot\images\laal-maas.jpeg
+wwwroot\images\lasi.webp
+wwwroot\images\logo.png
+wwwroot\images\macher jhol.jpg
+wwwroot\images\mago sticky rice.jpg
+wwwroot\images\mango kulfi.jpg
+wwwroot\images\Mango-Lassi.jpg
+wwwroot\images\mirch ka salan.jpg
+wwwroot\images\mishti doi.jpg
+wwwroot\images\molecular biryani.png
+wwwroot\images\murgh malai tikka.jpg
+wwwroot\images\mutton biryani.jpg
+wwwroot\images\mutton rezela.webp
+wwwroot\images\mutton-keema.jpg
+wwwroot\images\mutton-korma.jpg
+wwwroot\images\MysorePak.jpg
+wwwroot\images\paneer butter masala.jpg
+wwwroot\images\Pasta-Primavera.jpg
+wwwroot\images\payaam.jpg
+wwwroot\images\Peshwari-naan.webp
+wwwroot\images\Pineapple-Coconut-cake.jpg
+wwwroot\images\pizza margaritta.webp
+wwwroot\images\plain idli.webp
+wwwroot\images\Prawn-Masala.jpg
+wwwroot\images\qubani ka meetha.jpg
+wwwroot\images\raspberry-sorbet.webp
+wwwroot\images\RavaIdli.jpg
+wwwroot\images\roshogolla.webp
+wwwroot\images\sali boti.jpg
+wwwroot\images\samosa.webp
+wwwroot\images\sandesh.jpg
+wwwroot\images\seafood-platter.jpg
+wwwroot\images\shahi-tukda.jpg
+wwwroot\images\Sheer-Khurma.jpg
+wwwroot\images\shorshe ilish.jpg
+wwwroot\images\tandoori roti.jpg
+wwwroot\images\tiramisu.jpg
+wwwroot\images\toit.png
+wwwroot\images\tom yum soup.jpg
+wwwroot\images\truffled-mac-cheese.webp
+wwwroot\images\vada.JPG
+wwwroot\images\vada-pav.jpg
+wwwroot\images\vegetable biryani.jpg
+wwwroot\index.css
+wwwroot\Index.html
+wwwroot\wwwroot.rar

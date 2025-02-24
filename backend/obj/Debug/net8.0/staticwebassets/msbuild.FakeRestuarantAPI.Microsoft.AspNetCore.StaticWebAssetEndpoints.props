@@ -1,0 +1,1036 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/Docs.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Docs.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xJRpi\u002BBz4RvJbjOeVA/5Ep0dO/gnHWJcqWl2NEoRLbA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"21923"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022xJRpi\u002BBz4RvJbjOeVA/5Ep0dO/gnHWJcqWl2NEoRLbA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/Docs.s8woqabh0y.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Docs.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s8woqabh0y"},{"Name":"integrity","Value":"sha256-xJRpi\u002BBz4RvJbjOeVA/5Ep0dO/gnHWJcqWl2NEoRLbA="},{"Name":"label","Value":"_content/FakeRestuarantAPI/Docs.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21923"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022xJRpi\u002BBz4RvJbjOeVA/5Ep0dO/gnHWJcqWl2NEoRLbA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/afghan kebabs.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\afghan kebabs.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AxFFrROlqvLbvlhP4sn\u002B2rJoFo4RzxvOm4tKb1SyqSg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"99372"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AxFFrROlqvLbvlhP4sn\u002B2rJoFo4RzxvOm4tKb1SyqSg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/afghan kebabs.p185v2j17t.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\afghan kebabs.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p185v2j17t"},{"Name":"integrity","Value":"sha256-AxFFrROlqvLbvlhP4sn\u002B2rJoFo4RzxvOm4tKb1SyqSg="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/afghan kebabs.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"99372"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AxFFrROlqvLbvlhP4sn\u002B2rJoFo4RzxvOm4tKb1SyqSg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Amritsari-fish.ax0xb7sh8m.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Amritsari-fish.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ax0xb7sh8m"},{"Name":"integrity","Value":"sha256-7umzKhA3fBIdEgVx/H8pEJzOGnbdbw2PlqaNud4GlPg="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Amritsari-fish.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30238"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u00227umzKhA3fBIdEgVx/H8pEJzOGnbdbw2PlqaNud4GlPg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Amritsari-fish.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Amritsari-fish.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7umzKhA3fBIdEgVx/H8pEJzOGnbdbw2PlqaNud4GlPg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30238"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u00227umzKhA3fBIdEgVx/H8pEJzOGnbdbw2PlqaNud4GlPg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/bagara baigan.8kzr8henp2.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bagara baigan.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8kzr8henp2"},{"Name":"integrity","Value":"sha256-yHiBXoTW9nFNuSTlOP1z4kzKra6DdfyeuYPSWrSUmkI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/bagara baigan.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45650"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022yHiBXoTW9nFNuSTlOP1z4kzKra6DdfyeuYPSWrSUmkI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/bagara baigan.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bagara baigan.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yHiBXoTW9nFNuSTlOP1z4kzKra6DdfyeuYPSWrSUmkI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45650"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022yHiBXoTW9nFNuSTlOP1z4kzKra6DdfyeuYPSWrSUmkI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/baklava.4qgryhcg4o.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\baklava.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4qgryhcg4o"},{"Name":"integrity","Value":"sha256-lGwTUIR6gkT2y62H\u002Bpv/wohq99yIMySw0IUHLmdUTTY="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/baklava.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"72851"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lGwTUIR6gkT2y62H\u002Bpv/wohq99yIMySw0IUHLmdUTTY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/baklava.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\baklava.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lGwTUIR6gkT2y62H\u002Bpv/wohq99yIMySw0IUHLmdUTTY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"72851"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lGwTUIR6gkT2y62H\u002Bpv/wohq99yIMySw0IUHLmdUTTY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/bengali thali.d1snajyphf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bengali thali.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d1snajyphf"},{"Name":"integrity","Value":"sha256-scOM8/ooAXtiYVpav2GS8GG/2XvNJQUdhlIXwt2b3UM="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/bengali thali.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"77674"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022scOM8/ooAXtiYVpav2GS8GG/2XvNJQUdhlIXwt2b3UM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/bengali thali.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bengali thali.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-scOM8/ooAXtiYVpav2GS8GG/2XvNJQUdhlIXwt2b3UM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"77674"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022scOM8/ooAXtiYVpav2GS8GG/2XvNJQUdhlIXwt2b3UM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/berry pulav.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\berry pulav.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Am8Koa\u002BtrTjTIt2T\u002BWHJdqJvHvWqR2hF\u002B2dZkr7twCo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"238703"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Am8Koa\u002BtrTjTIt2T\u002BWHJdqJvHvWqR2hF\u002B2dZkr7twCo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/berry pulav.uwqjmrqnhh.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\berry pulav.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uwqjmrqnhh"},{"Name":"integrity","Value":"sha256-Am8Koa\u002BtrTjTIt2T\u002BWHJdqJvHvWqR2hF\u002B2dZkr7twCo="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/berry pulav.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"238703"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Am8Koa\u002BtrTjTIt2T\u002BWHJdqJvHvWqR2hF\u002B2dZkr7twCo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/bombli fry.g5imnbggiv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bombli fry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g5imnbggiv"},{"Name":"integrity","Value":"sha256-ZIilqDmVXDEkPLLum/G3JfSTTa0PuGvbvgTR1scm5D0="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/bombli fry.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"126483"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZIilqDmVXDEkPLLum/G3JfSTTa0PuGvbvgTR1scm5D0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/bombli fry.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bombli fry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZIilqDmVXDEkPLLum/G3JfSTTa0PuGvbvgTR1scm5D0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"126483"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZIilqDmVXDEkPLLum/G3JfSTTa0PuGvbvgTR1scm5D0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/bukhara murg.93keqhtj5k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bukhara murg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"93keqhtj5k"},{"Name":"integrity","Value":"sha256-NSvCrrKIrxJY/TlMNlFLShVkXn6W7LySrVy2UeKpbhU="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/bukhara murg.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"47329"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NSvCrrKIrxJY/TlMNlFLShVkXn6W7LySrVy2UeKpbhU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/bukhara murg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bukhara murg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NSvCrrKIrxJY/TlMNlFLShVkXn6W7LySrVy2UeKpbhU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"47329"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NSvCrrKIrxJY/TlMNlFLShVkXn6W7LySrVy2UeKpbhU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/butter chicken.a5xogdlbf9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\butter chicken.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a5xogdlbf9"},{"Name":"integrity","Value":"sha256-zjEiIyVnsdImuEG78tPd0oVFSVkkJX9MWaBHqK02sC4="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/butter chicken.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86783"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zjEiIyVnsdImuEG78tPd0oVFSVkkJX9MWaBHqK02sC4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/butter chicken.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\butter chicken.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zjEiIyVnsdImuEG78tPd0oVFSVkkJX9MWaBHqK02sC4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"86783"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zjEiIyVnsdImuEG78tPd0oVFSVkkJX9MWaBHqK02sC4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/chettinad chicken.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chettinad chicken.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YRse0ZzNrna8GU1diEOcZo632sA\u002BJX/T\u002BDbeE/q2x8A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"271879"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YRse0ZzNrna8GU1diEOcZo632sA\u002BJX/T\u002BDbeE/q2x8A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/chettinad chicken.r5xjydkfjf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chettinad chicken.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r5xjydkfjf"},{"Name":"integrity","Value":"sha256-YRse0ZzNrna8GU1diEOcZo632sA\u002BJX/T\u002BDbeE/q2x8A="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/chettinad chicken.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"271879"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YRse0ZzNrna8GU1diEOcZo632sA\u002BJX/T\u002BDbeE/q2x8A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Chicken-Haleem.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Chicken-Haleem.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p\u002BrH0WQEjpAhKlakEI6heu416ZYdi7Qo5QmeGRFbPi0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"741285"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022p\u002BrH0WQEjpAhKlakEI6heu416ZYdi7Qo5QmeGRFbPi0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Chicken-Haleem.nkgryrzqot.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Chicken-Haleem.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nkgryrzqot"},{"Name":"integrity","Value":"sha256-p\u002BrH0WQEjpAhKlakEI6heu416ZYdi7Qo5QmeGRFbPi0="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Chicken-Haleem.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"741285"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022p\u002BrH0WQEjpAhKlakEI6heu416ZYdi7Qo5QmeGRFbPi0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Chicken-Shawarma.9ewemd088r.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Chicken-Shawarma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ewemd088r"},{"Name":"integrity","Value":"sha256-fzoR\u002BMgJLdKhWN5/Z1TVGULe5smib5mtiEMayH2OiEI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Chicken-Shawarma.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94563"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fzoR\u002BMgJLdKhWN5/Z1TVGULe5smib5mtiEMayH2OiEI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Chicken-Shawarma.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Chicken-Shawarma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fzoR\u002BMgJLdKhWN5/Z1TVGULe5smib5mtiEMayH2OiEI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94563"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fzoR\u002BMgJLdKhWN5/Z1TVGULe5smib5mtiEMayH2OiEI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/chickenn biryani.crq9tumgbu.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chickenn biryani.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"crq9tumgbu"},{"Name":"integrity","Value":"sha256-uMSfNJvoEJkaSxBF\u002BTIj9GIWh8lJo0\u002B4N8GpM4b65WE="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/chickenn biryani.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52810"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022uMSfNJvoEJkaSxBF\u002BTIj9GIWh8lJo0\u002B4N8GpM4b65WE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/chickenn biryani.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chickenn biryani.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uMSfNJvoEJkaSxBF\u002BTIj9GIWh8lJo0\u002B4N8GpM4b65WE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"52810"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022uMSfNJvoEJkaSxBF\u002BTIj9GIWh8lJo0\u002B4N8GpM4b65WE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Chingri-Malai-Curry.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Chingri-Malai-Curry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Maegcr1jBJIfIPSr4L55P1E39SOkBCFd\u002BhkbbjDVM34="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"225621"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Maegcr1jBJIfIPSr4L55P1E39SOkBCFd\u002BhkbbjDVM34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Chingri-Malai-Curry.ttoq708j7v.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Chingri-Malai-Curry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ttoq708j7v"},{"Name":"integrity","Value":"sha256-Maegcr1jBJIfIPSr4L55P1E39SOkBCFd\u002BhkbbjDVM34="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Chingri-Malai-Curry.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"225621"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Maegcr1jBJIfIPSr4L55P1E39SOkBCFd\u002BhkbbjDVM34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/chole batura.2ibrw5esjb.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chole batura.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2ibrw5esjb"},{"Name":"integrity","Value":"sha256-\u002BqYdd0jXLr88xWZ\u002BEb8KeGCP5XXnJM7J9s6INpk1BTo="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/chole batura.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14408"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BqYdd0jXLr88xWZ\u002BEb8KeGCP5XXnJM7J9s6INpk1BTo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/chole batura.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chole batura.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BqYdd0jXLr88xWZ\u002BEb8KeGCP5XXnJM7J9s6INpk1BTo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14408"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BqYdd0jXLr88xWZ\u002BEb8KeGCP5XXnJM7J9s6INpk1BTo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/coffee.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\coffee.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-urp5fURmxJOlRbACHFo\u002BAtRaZkjyA9sQcOAkZgOBIfU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5097"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022urp5fURmxJOlRbACHFo\u002BAtRaZkjyA9sQcOAkZgOBIfU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/coffee.y1wk64p2m6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\coffee.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y1wk64p2m6"},{"Name":"integrity","Value":"sha256-urp5fURmxJOlRbACHFo\u002BAtRaZkjyA9sQcOAkZgOBIfU="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/coffee.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5097"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022urp5fURmxJOlRbACHFo\u002BAtRaZkjyA9sQcOAkZgOBIfU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/dal bati churma.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dal bati churma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ps3bF86uok3nDEzNYls8Yhd6T7zfR0ko/txor\u002BceaSs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"217344"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ps3bF86uok3nDEzNYls8Yhd6T7zfR0ko/txor\u002BceaSs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/dal bati churma.qwc0l7w5qn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dal bati churma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qwc0l7w5qn"},{"Name":"integrity","Value":"sha256-ps3bF86uok3nDEzNYls8Yhd6T7zfR0ko/txor\u002BceaSs="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/dal bati churma.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"217344"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ps3bF86uok3nDEzNYls8Yhd6T7zfR0ko/txor\u002BceaSs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/dal bhukara.7nc4t4wpqg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dal bhukara.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7nc4t4wpqg"},{"Name":"integrity","Value":"sha256-/dk6BoF8i7bC\u002BY6k5w2mgno2csmv8VSyzoRhx2w9PsU="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/dal bhukara.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"182457"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/dk6BoF8i7bC\u002BY6k5w2mgno2csmv8VSyzoRhx2w9PsU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/dal bhukara.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dal bhukara.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/dk6BoF8i7bC\u002BY6k5w2mgno2csmv8VSyzoRhx2w9PsU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"182457"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/dk6BoF8i7bC\u002BY6k5w2mgno2csmv8VSyzoRhx2w9PsU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Dal-Makhani.30b9iwm8g7.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Dal-Makhani.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"30b9iwm8g7"},{"Name":"integrity","Value":"sha256-89HxDBLM6WQYlzW29uflRyg30sK\u002B398V8dmKb08eIU8="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Dal-Makhani.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"336502"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u002289HxDBLM6WQYlzW29uflRyg30sK\u002B398V8dmKb08eIU8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Dal-Makhani.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Dal-Makhani.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-89HxDBLM6WQYlzW29uflRyg30sK\u002B398V8dmKb08eIU8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"336502"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u002289HxDBLM6WQYlzW29uflRyg30sK\u002B398V8dmKb08eIU8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Dosa.j40akd33v8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Dosa.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j40akd33v8"},{"Name":"integrity","Value":"sha256-I/cIK1OM0sQ\u002BaY0oX/5wWmA/mAmWqEvKU4SIL5roIvk="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Dosa.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"113283"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022I/cIK1OM0sQ\u002BaY0oX/5wWmA/mAmWqEvKU4SIL5roIvk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Dosa.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Dosa.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-I/cIK1OM0sQ\u002BaY0oX/5wWmA/mAmWqEvKU4SIL5roIvk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"113283"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022I/cIK1OM0sQ\u002BaY0oX/5wWmA/mAmWqEvKU4SIL5roIvk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Double-ka-Meetha.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Double-ka-Meetha.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wvIXfP8FBRBSObjHCizvc/MVcVIuPYe3XJDkVLMA0Zs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"122052"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wvIXfP8FBRBSObjHCizvc/MVcVIuPYe3XJDkVLMA0Zs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Double-ka-Meetha.mj8e43u6eo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Double-ka-Meetha.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mj8e43u6eo"},{"Name":"integrity","Value":"sha256-wvIXfP8FBRBSObjHCizvc/MVcVIuPYe3XJDkVLMA0Zs="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Double-ka-Meetha.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"122052"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wvIXfP8FBRBSObjHCizvc/MVcVIuPYe3XJDkVLMA0Zs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/filter-coffee.26x7p1x4xc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\filter-coffee.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"26x7p1x4xc"},{"Name":"integrity","Value":"sha256-qhAcZEjTtThZbP\u002Bd6T6Te997dPugptWg8nCXmTcXc2I="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/filter-coffee.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"860251"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qhAcZEjTtThZbP\u002Bd6T6Te997dPugptWg8nCXmTcXc2I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/filter-coffee.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\filter-coffee.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qhAcZEjTtThZbP\u002Bd6T6Te997dPugptWg8nCXmTcXc2I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"860251"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qhAcZEjTtThZbP\u002Bd6T6Te997dPugptWg8nCXmTcXc2I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/firni.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\firni.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P40KYZXIiwV6wA8Gbft/09TfekoRQZuzQ1TpUhAaWRs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"491112"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022P40KYZXIiwV6wA8Gbft/09TfekoRQZuzQ1TpUhAaWRs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/firni.ny64howufu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\firni.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ny64howufu"},{"Name":"integrity","Value":"sha256-P40KYZXIiwV6wA8Gbft/09TfekoRQZuzQ1TpUhAaWRs="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/firni.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"491112"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022P40KYZXIiwV6wA8Gbft/09TfekoRQZuzQ1TpUhAaWRs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/fish curry.gorir3lc0j.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fish curry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gorir3lc0j"},{"Name":"integrity","Value":"sha256-YGz77mZl/5LdYy2hY6RNrehaUuyYv/aj9BoJ80UXks8="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/fish curry.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"700775"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YGz77mZl/5LdYy2hY6RNrehaUuyYv/aj9BoJ80UXks8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/fish curry.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fish curry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YGz77mZl/5LdYy2hY6RNrehaUuyYv/aj9BoJ80UXks8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"700775"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YGz77mZl/5LdYy2hY6RNrehaUuyYv/aj9BoJ80UXks8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Fish-Molee.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Fish-Molee.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0SnihsgtiuchWTNgx5ein2YmkiSfUBz\u002BwmCeHnddFo4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"81908"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220SnihsgtiuchWTNgx5ein2YmkiSfUBz\u002BwmCeHnddFo4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Fish-Molee.xo54glnl86.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Fish-Molee.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xo54glnl86"},{"Name":"integrity","Value":"sha256-0SnihsgtiuchWTNgx5ein2YmkiSfUBz\u002BwmCeHnddFo4="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Fish-Molee.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"81908"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220SnihsgtiuchWTNgx5ein2YmkiSfUBz\u002BwmCeHnddFo4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/foodorder.07cgl443y0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\foodorder.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"07cgl443y0"},{"Name":"integrity","Value":"sha256-vGa5LDUAcJoLu/J5/vsPquHfP4aJBGzCy2j5mpBaKeo="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/foodorder.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"980357"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vGa5LDUAcJoLu/J5/vsPquHfP4aJBGzCy2j5mpBaKeo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/foodorder.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\foodorder.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vGa5LDUAcJoLu/J5/vsPquHfP4aJBGzCy2j5mpBaKeo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"980357"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vGa5LDUAcJoLu/J5/vsPquHfP4aJBGzCy2j5mpBaKeo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/ghevar.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ghevar.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GH3tHl3cpzs4bAkgQkMCEyFeelfrOhtquETvVq/W1t0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"134445"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GH3tHl3cpzs4bAkgQkMCEyFeelfrOhtquETvVq/W1t0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/ghevar.oo6dyyrpsj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ghevar.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oo6dyyrpsj"},{"Name":"integrity","Value":"sha256-GH3tHl3cpzs4bAkgQkMCEyFeelfrOhtquETvVq/W1t0="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/ghevar.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"134445"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GH3tHl3cpzs4bAkgQkMCEyFeelfrOhtquETvVq/W1t0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/green curry.9j18w70yyi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\green curry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9j18w70yyi"},{"Name":"integrity","Value":"sha256-OyodQGDm4JiG1yzHBEO\u002B3t78KR/rCRmgLUFatqTncJA="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/green curry.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"667657"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OyodQGDm4JiG1yzHBEO\u002B3t78KR/rCRmgLUFatqTncJA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/green curry.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\green curry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OyodQGDm4JiG1yzHBEO\u002B3t78KR/rCRmgLUFatqTncJA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"667657"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OyodQGDm4JiG1yzHBEO\u002B3t78KR/rCRmgLUFatqTncJA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/grilled salmon.hgzrywfpeq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\grilled salmon.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hgzrywfpeq"},{"Name":"integrity","Value":"sha256-Qf5bQP5qowgy70GRvSNmWSy2Ar2HP8ukgm09UyVqy7A="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/grilled salmon.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"170288"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Qf5bQP5qowgy70GRvSNmWSy2Ar2HP8ukgm09UyVqy7A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/grilled salmon.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\grilled salmon.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Qf5bQP5qowgy70GRvSNmWSy2Ar2HP8ukgm09UyVqy7A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"170288"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Qf5bQP5qowgy70GRvSNmWSy2Ar2HP8ukgm09UyVqy7A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Gulab-Jamun.fiuh8qmsig.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Gulab-Jamun.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fiuh8qmsig"},{"Name":"integrity","Value":"sha256-t8R6MBq6RJJCZCpYXvCg0U7t4aRx/LSJNZwMzeZOkLE="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Gulab-Jamun.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"235639"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022t8R6MBq6RJJCZCpYXvCg0U7t4aRx/LSJNZwMzeZOkLE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Gulab-Jamun.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Gulab-Jamun.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t8R6MBq6RJJCZCpYXvCg0U7t4aRx/LSJNZwMzeZOkLE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"235639"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022t8R6MBq6RJJCZCpYXvCg0U7t4aRx/LSJNZwMzeZOkLE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/haleem.fitus5euh6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\haleem.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fitus5euh6"},{"Name":"integrity","Value":"sha256-Gd9PRGurdCuiLDZkoKYhJmVFJepTh0XGTMbAO3vK53s="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/haleem.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40295"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Gd9PRGurdCuiLDZkoKYhJmVFJepTh0XGTMbAO3vK53s=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/haleem.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\haleem.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gd9PRGurdCuiLDZkoKYhJmVFJepTh0XGTMbAO3vK53s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40295"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Gd9PRGurdCuiLDZkoKYhJmVFJepTh0XGTMbAO3vK53s=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/hyderabad biryani.8k221xu2fb.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hyderabad biryani.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8k221xu2fb"},{"Name":"integrity","Value":"sha256-eJ4FFFvOzIwYxMywztUk7TQMSBzkUq05dzkq4tDX8no="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/hyderabad biryani.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"98959"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eJ4FFFvOzIwYxMywztUk7TQMSBzkUq05dzkq4tDX8no=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/hyderabad biryani.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hyderabad biryani.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eJ4FFFvOzIwYxMywztUk7TQMSBzkUq05dzkq4tDX8no="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"98959"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eJ4FFFvOzIwYxMywztUk7TQMSBzkUq05dzkq4tDX8no=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/idli sambar.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\idli sambar.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5PmwQzPtyuztZOmlji7DffXwmDUtvAn2p9/n\u002B8VvB9I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1000770"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225PmwQzPtyuztZOmlji7DffXwmDUtvAn2p9/n\u002B8VvB9I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/idli sambar.skby3xtb9k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\idli sambar.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skby3xtb9k"},{"Name":"integrity","Value":"sha256-5PmwQzPtyuztZOmlji7DffXwmDUtvAn2p9/n\u002B8VvB9I="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/idli sambar.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1000770"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225PmwQzPtyuztZOmlji7DffXwmDUtvAn2p9/n\u002B8VvB9I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/karim's biryani.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\karim's biryani.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7RqBEUkhcqbLp4Yt2zCBdWAmtcoTYBJX\u002BM49HthwQUA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"111675"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227RqBEUkhcqbLp4Yt2zCBdWAmtcoTYBJX\u002BM49HthwQUA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/karim's biryani.nvi2drmxv8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\karim's biryani.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nvi2drmxv8"},{"Name":"integrity","Value":"sha256-7RqBEUkhcqbLp4Yt2zCBdWAmtcoTYBJX\u002BM49HthwQUA="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/karim\u0027s biryani.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"111675"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227RqBEUkhcqbLp4Yt2zCBdWAmtcoTYBJX\u002BM49HthwQUA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/kebabs.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\kebabs.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xk5qi8lxLf2ClmIpoDcdJdlTlauRYnrnJ7AUj/Z3j2U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11788"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Xk5qi8lxLf2ClmIpoDcdJdlTlauRYnrnJ7AUj/Z3j2U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/kebabs.u5h3gm1c5c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\kebabs.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u5h3gm1c5c"},{"Name":"integrity","Value":"sha256-Xk5qi8lxLf2ClmIpoDcdJdlTlauRYnrnJ7AUj/Z3j2U="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/kebabs.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11788"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Xk5qi8lxLf2ClmIpoDcdJdlTlauRYnrnJ7AUj/Z3j2U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/KEEMAMUTTON.8f645k0nuh.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\KEEMAMUTTON.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8f645k0nuh"},{"Name":"integrity","Value":"sha256-fFGuFCIvMUuOcIEAa2yChaGg7iA3a\u002BGLCRhNKcNcLM8="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/KEEMAMUTTON.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"312072"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022fFGuFCIvMUuOcIEAa2yChaGg7iA3a\u002BGLCRhNKcNcLM8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/KEEMAMUTTON.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\KEEMAMUTTON.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fFGuFCIvMUuOcIEAa2yChaGg7iA3a\u002BGLCRhNKcNcLM8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"312072"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022fFGuFCIvMUuOcIEAa2yChaGg7iA3a\u002BGLCRhNKcNcLM8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/kerala sadya.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\kerala sadya.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-evTFC4R2r9Kv5Qse/I1h38Tbp4eUI3CtgOup8jFrPow="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"907287"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022evTFC4R2r9Kv5Qse/I1h38Tbp4eUI3CtgOup8jFrPow=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/kerala sadya.uuru7noqc9.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\kerala sadya.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uuru7noqc9"},{"Name":"integrity","Value":"sha256-evTFC4R2r9Kv5Qse/I1h38Tbp4eUI3CtgOup8jFrPow="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/kerala sadya.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"907287"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022evTFC4R2r9Kv5Qse/I1h38Tbp4eUI3CtgOup8jFrPow=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/koftacurry.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\koftacurry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ele1yYWqIdGZnAAbd11wC5das\u002BOUMLQeFVD8fNGrha8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"79779"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ele1yYWqIdGZnAAbd11wC5das\u002BOUMLQeFVD8fNGrha8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/koftacurry.qj07ac3ehg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\koftacurry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qj07ac3ehg"},{"Name":"integrity","Value":"sha256-ele1yYWqIdGZnAAbd11wC5das\u002BOUMLQeFVD8fNGrha8="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/koftacurry.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79779"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ele1yYWqIdGZnAAbd11wC5das\u002BOUMLQeFVD8fNGrha8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/kosha mangsho.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\kosha mangsho.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xOJUBhDNsDALuRRTGrxAv2Qjd0CcAi0lQSP0MDMVzc0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"110532"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xOJUBhDNsDALuRRTGrxAv2Qjd0CcAi0lQSP0MDMVzc0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/kosha mangsho.k03ap3d9pw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\kosha mangsho.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k03ap3d9pw"},{"Name":"integrity","Value":"sha256-xOJUBhDNsDALuRRTGrxAv2Qjd0CcAi0lQSP0MDMVzc0="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/kosha mangsho.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"110532"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xOJUBhDNsDALuRRTGrxAv2Qjd0CcAi0lQSP0MDMVzc0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/laal-maas.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\laal-maas.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p2C\u002BNyYXegRZitP8dxrs5FLI9oti04Hl93/m\u002BQa7ywI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"83213"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022p2C\u002BNyYXegRZitP8dxrs5FLI9oti04Hl93/m\u002BQa7ywI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/laal-maas.vykqsu2ayw.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\laal-maas.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vykqsu2ayw"},{"Name":"integrity","Value":"sha256-p2C\u002BNyYXegRZitP8dxrs5FLI9oti04Hl93/m\u002BQa7ywI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/laal-maas.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"83213"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022p2C\u002BNyYXegRZitP8dxrs5FLI9oti04Hl93/m\u002BQa7ywI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/lasi.2sw4sslmc2.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lasi.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sw4sslmc2"},{"Name":"integrity","Value":"sha256-8trErK55jKMrNUCVFi/DuRztoGfp9yylOa7xngxJzYI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/lasi.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"83436"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u00228trErK55jKMrNUCVFi/DuRztoGfp9yylOa7xngxJzYI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/lasi.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lasi.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8trErK55jKMrNUCVFi/DuRztoGfp9yylOa7xngxJzYI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"83436"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u00228trErK55jKMrNUCVFi/DuRztoGfp9yylOa7xngxJzYI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/logo.gpanr6x4df.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gpanr6x4df"},{"Name":"integrity","Value":"sha256-9HgXTc818582mKxHOG1zvh8MnB8iIJaO1/0\u002ByXjizxc="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/logo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16969"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229HgXTc818582mKxHOG1zvh8MnB8iIJaO1/0\u002ByXjizxc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/logo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9HgXTc818582mKxHOG1zvh8MnB8iIJaO1/0\u002ByXjizxc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16969"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229HgXTc818582mKxHOG1zvh8MnB8iIJaO1/0\u002ByXjizxc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/macher jhol.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\macher jhol.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-m97CH3nhxLKOkZCJ1Y0SD1ImcsCKcKTgFjn78f7AYQQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1601447"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022m97CH3nhxLKOkZCJ1Y0SD1ImcsCKcKTgFjn78f7AYQQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/macher jhol.p32v9r1w65.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\macher jhol.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p32v9r1w65"},{"Name":"integrity","Value":"sha256-m97CH3nhxLKOkZCJ1Y0SD1ImcsCKcKTgFjn78f7AYQQ="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/macher jhol.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1601447"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022m97CH3nhxLKOkZCJ1Y0SD1ImcsCKcKTgFjn78f7AYQQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mago sticky rice.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mago sticky rice.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Fn1k6tN56grFaZ8ELdquKRwu0/TLrK5UQ1U\u002BQcOahQI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"122947"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Fn1k6tN56grFaZ8ELdquKRwu0/TLrK5UQ1U\u002BQcOahQI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mago sticky rice.yismxyo5ru.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mago sticky rice.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yismxyo5ru"},{"Name":"integrity","Value":"sha256-Fn1k6tN56grFaZ8ELdquKRwu0/TLrK5UQ1U\u002BQcOahQI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/mago sticky rice.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"122947"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Fn1k6tN56grFaZ8ELdquKRwu0/TLrK5UQ1U\u002BQcOahQI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mango kulfi.4yuh40nq4k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mango kulfi.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4yuh40nq4k"},{"Name":"integrity","Value":"sha256-7CpUYf7423dqyp925bXVDyfnuYK0HZ29wfUmMkUKe34="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/mango kulfi.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"490164"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227CpUYf7423dqyp925bXVDyfnuYK0HZ29wfUmMkUKe34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mango kulfi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mango kulfi.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7CpUYf7423dqyp925bXVDyfnuYK0HZ29wfUmMkUKe34="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"490164"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227CpUYf7423dqyp925bXVDyfnuYK0HZ29wfUmMkUKe34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Mango-Lassi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Mango-Lassi.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Umoq0KgtMID661\u002BDLq4gFKDLKhsH6YV0RQ17v4UvF8I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"191561"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Umoq0KgtMID661\u002BDLq4gFKDLKhsH6YV0RQ17v4UvF8I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Mango-Lassi.yr0n6nromx.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Mango-Lassi.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yr0n6nromx"},{"Name":"integrity","Value":"sha256-Umoq0KgtMID661\u002BDLq4gFKDLKhsH6YV0RQ17v4UvF8I="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Mango-Lassi.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"191561"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Umoq0KgtMID661\u002BDLq4gFKDLKhsH6YV0RQ17v4UvF8I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mirch ka salan.90z6f0k6cu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mirch ka salan.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"90z6f0k6cu"},{"Name":"integrity","Value":"sha256-uSUsx66l1oUfyywit3ZRee6sK9rssH9\u002BYQfTWLr22pI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/mirch ka salan.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164824"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uSUsx66l1oUfyywit3ZRee6sK9rssH9\u002BYQfTWLr22pI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mirch ka salan.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mirch ka salan.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uSUsx66l1oUfyywit3ZRee6sK9rssH9\u002BYQfTWLr22pI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164824"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uSUsx66l1oUfyywit3ZRee6sK9rssH9\u002BYQfTWLr22pI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mishti doi.beb761hbz8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mishti doi.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"beb761hbz8"},{"Name":"integrity","Value":"sha256-jZCWvqn5qnuvMwpOWm0yXAh8MSpqBbq/\u002BBSEWbzkUUk="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/mishti doi.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"66725"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jZCWvqn5qnuvMwpOWm0yXAh8MSpqBbq/\u002BBSEWbzkUUk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mishti doi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mishti doi.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jZCWvqn5qnuvMwpOWm0yXAh8MSpqBbq/\u002BBSEWbzkUUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"66725"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jZCWvqn5qnuvMwpOWm0yXAh8MSpqBbq/\u002BBSEWbzkUUk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/molecular biryani.68vf2ol379.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\molecular biryani.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"68vf2ol379"},{"Name":"integrity","Value":"sha256-1v0vpdZPX4pnOIxiKLkkK8CLyGtZjrhfoqkElGduSOM="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/molecular biryani.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25346"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221v0vpdZPX4pnOIxiKLkkK8CLyGtZjrhfoqkElGduSOM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/molecular biryani.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\molecular biryani.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1v0vpdZPX4pnOIxiKLkkK8CLyGtZjrhfoqkElGduSOM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25346"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221v0vpdZPX4pnOIxiKLkkK8CLyGtZjrhfoqkElGduSOM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/murgh malai tikka.17inrynb9s.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\murgh malai tikka.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"17inrynb9s"},{"Name":"integrity","Value":"sha256-I1HR32/TLxyWVTMH3XXn0y\u002BFU5CSmckDy21nZaPpQnA="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/murgh malai tikka.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"109510"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022I1HR32/TLxyWVTMH3XXn0y\u002BFU5CSmckDy21nZaPpQnA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/murgh malai tikka.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\murgh malai tikka.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-I1HR32/TLxyWVTMH3XXn0y\u002BFU5CSmckDy21nZaPpQnA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"109510"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022I1HR32/TLxyWVTMH3XXn0y\u002BFU5CSmckDy21nZaPpQnA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mutton biryani.9v26xdny53.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mutton biryani.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9v26xdny53"},{"Name":"integrity","Value":"sha256-\u002B6YziNnosMjbNuU0dFFWOTzHmId\u002B4XuTGjphCjFheTg="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/mutton biryani.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"173189"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002B6YziNnosMjbNuU0dFFWOTzHmId\u002B4XuTGjphCjFheTg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mutton biryani.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mutton biryani.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B6YziNnosMjbNuU0dFFWOTzHmId\u002B4XuTGjphCjFheTg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"173189"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002B6YziNnosMjbNuU0dFFWOTzHmId\u002B4XuTGjphCjFheTg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mutton rezela.w3ucfvj0wr.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mutton rezela.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w3ucfvj0wr"},{"Name":"integrity","Value":"sha256-bJ6tg/7IhON9Vx8VMV1LKo7M0bxEYMIg7AJl\u002BgSut5E="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/mutton rezela.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92236"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022bJ6tg/7IhON9Vx8VMV1LKo7M0bxEYMIg7AJl\u002BgSut5E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mutton rezela.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mutton rezela.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bJ6tg/7IhON9Vx8VMV1LKo7M0bxEYMIg7AJl\u002BgSut5E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"92236"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022bJ6tg/7IhON9Vx8VMV1LKo7M0bxEYMIg7AJl\u002BgSut5E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mutton-keema.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mutton-keema.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ddMmC1LMzq4D7bvcCF7Fqj24MGg\u002B\u002BOWyivSf38dddxI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48567"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ddMmC1LMzq4D7bvcCF7Fqj24MGg\u002B\u002BOWyivSf38dddxI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mutton-keema.tuikn4zwld.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mutton-keema.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tuikn4zwld"},{"Name":"integrity","Value":"sha256-ddMmC1LMzq4D7bvcCF7Fqj24MGg\u002B\u002BOWyivSf38dddxI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/mutton-keema.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48567"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ddMmC1LMzq4D7bvcCF7Fqj24MGg\u002B\u002BOWyivSf38dddxI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mutton-korma.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mutton-korma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uv\u002B5I/Yg6HToQQAQAB3Xrr879kn3zThLj\u002BXRuStn3D4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"343974"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uv\u002B5I/Yg6HToQQAQAB3Xrr879kn3zThLj\u002BXRuStn3D4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/mutton-korma.u2ivzcm2fa.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mutton-korma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u2ivzcm2fa"},{"Name":"integrity","Value":"sha256-uv\u002B5I/Yg6HToQQAQAB3Xrr879kn3zThLj\u002BXRuStn3D4="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/mutton-korma.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"343974"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uv\u002B5I/Yg6HToQQAQAB3Xrr879kn3zThLj\u002BXRuStn3D4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/MysorePak.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\MysorePak.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NLUgloKK26ZT6AI6F63sI1xBN8nxh4eyzESqWMZ0gI4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"336897"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NLUgloKK26ZT6AI6F63sI1xBN8nxh4eyzESqWMZ0gI4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/MysorePak.wl63lbre5v.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\MysorePak.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wl63lbre5v"},{"Name":"integrity","Value":"sha256-NLUgloKK26ZT6AI6F63sI1xBN8nxh4eyzESqWMZ0gI4="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/MysorePak.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"336897"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NLUgloKK26ZT6AI6F63sI1xBN8nxh4eyzESqWMZ0gI4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/paneer butter masala.9udb1jparv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\paneer butter masala.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9udb1jparv"},{"Name":"integrity","Value":"sha256-0feJy1x4GwpZIW\u002BclGSLvKS0flow\u002BOkATKP\u002BfRIQ6WQ="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/paneer butter masala.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"61655"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220feJy1x4GwpZIW\u002BclGSLvKS0flow\u002BOkATKP\u002BfRIQ6WQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/paneer butter masala.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\paneer butter masala.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0feJy1x4GwpZIW\u002BclGSLvKS0flow\u002BOkATKP\u002BfRIQ6WQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"61655"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220feJy1x4GwpZIW\u002BclGSLvKS0flow\u002BOkATKP\u002BfRIQ6WQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Pasta-Primavera.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Pasta-Primavera.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HDVVIMhHvfQ3TAPCHxmPhaZpjIIvvOaLyoQC/yGlKbM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"138167"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HDVVIMhHvfQ3TAPCHxmPhaZpjIIvvOaLyoQC/yGlKbM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Pasta-Primavera.ot3voecl3w.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Pasta-Primavera.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ot3voecl3w"},{"Name":"integrity","Value":"sha256-HDVVIMhHvfQ3TAPCHxmPhaZpjIIvvOaLyoQC/yGlKbM="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Pasta-Primavera.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"138167"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HDVVIMhHvfQ3TAPCHxmPhaZpjIIvvOaLyoQC/yGlKbM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/payaam.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\payaam.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Y5GL5QAmIX57FSKq4cH8aFrtLOduwTF5SYRy9QGnuas="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"408439"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Y5GL5QAmIX57FSKq4cH8aFrtLOduwTF5SYRy9QGnuas=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/payaam.zgcpqjsxdr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\payaam.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zgcpqjsxdr"},{"Name":"integrity","Value":"sha256-Y5GL5QAmIX57FSKq4cH8aFrtLOduwTF5SYRy9QGnuas="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/payaam.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"408439"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Y5GL5QAmIX57FSKq4cH8aFrtLOduwTF5SYRy9QGnuas=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Peshwari-naan.0weisn0v7l.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Peshwari-naan.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0weisn0v7l"},{"Name":"integrity","Value":"sha256-IMybP6mufla6Za3KKeMpC0RaGWUfvPjjDkaGgfmD64g="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Peshwari-naan.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132058"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022IMybP6mufla6Za3KKeMpC0RaGWUfvPjjDkaGgfmD64g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Peshwari-naan.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Peshwari-naan.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IMybP6mufla6Za3KKeMpC0RaGWUfvPjjDkaGgfmD64g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"132058"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022IMybP6mufla6Za3KKeMpC0RaGWUfvPjjDkaGgfmD64g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Pineapple-Coconut-cake.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Pineapple-Coconut-cake.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uJFnhzKNRev\u002BGOUu/bBvwbNntuXKKBt6iTm8/utF\u002B\u002Bw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"184201"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uJFnhzKNRev\u002BGOUu/bBvwbNntuXKKBt6iTm8/utF\u002B\u002Bw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Pineapple-Coconut-cake.w262jkmjxw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Pineapple-Coconut-cake.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w262jkmjxw"},{"Name":"integrity","Value":"sha256-uJFnhzKNRev\u002BGOUu/bBvwbNntuXKKBt6iTm8/utF\u002B\u002Bw="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Pineapple-Coconut-cake.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"184201"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uJFnhzKNRev\u002BGOUu/bBvwbNntuXKKBt6iTm8/utF\u002B\u002Bw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/pizza margaritta.kjyffkbv2a.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pizza margaritta.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kjyffkbv2a"},{"Name":"integrity","Value":"sha256-oAsKEoRl4dVNbwLP7wc/XegPx6tjje9R1WWirqMMQ6c="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/pizza margaritta.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"330042"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022oAsKEoRl4dVNbwLP7wc/XegPx6tjje9R1WWirqMMQ6c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/pizza margaritta.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pizza margaritta.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oAsKEoRl4dVNbwLP7wc/XegPx6tjje9R1WWirqMMQ6c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"330042"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022oAsKEoRl4dVNbwLP7wc/XegPx6tjje9R1WWirqMMQ6c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/plain idli.vu9vkx9gi1.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\plain idli.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vu9vkx9gi1"},{"Name":"integrity","Value":"sha256-p4unVDIR3NlTQMoeqcZUdmhDyj2\u002B39JI8waoILuF/vc="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/plain idli.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32022"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022p4unVDIR3NlTQMoeqcZUdmhDyj2\u002B39JI8waoILuF/vc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/plain idli.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\plain idli.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p4unVDIR3NlTQMoeqcZUdmhDyj2\u002B39JI8waoILuF/vc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32022"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022p4unVDIR3NlTQMoeqcZUdmhDyj2\u002B39JI8waoILuF/vc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Prawn-Masala.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Prawn-Masala.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9D0AzCLJdcGyhk\u002Bkw5Y02kjHGy4pb3wrAu3uYQEInWc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"174639"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229D0AzCLJdcGyhk\u002Bkw5Y02kjHGy4pb3wrAu3uYQEInWc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Prawn-Masala.wjsqrl48rk.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Prawn-Masala.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wjsqrl48rk"},{"Name":"integrity","Value":"sha256-9D0AzCLJdcGyhk\u002Bkw5Y02kjHGy4pb3wrAu3uYQEInWc="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Prawn-Masala.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"174639"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229D0AzCLJdcGyhk\u002Bkw5Y02kjHGy4pb3wrAu3uYQEInWc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/qubani ka meetha.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\qubani ka meetha.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N/L2CL4qNY9YngseWZDut9ErJ4MVMtDibrI\u002BRcMU40w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"27210"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N/L2CL4qNY9YngseWZDut9ErJ4MVMtDibrI\u002BRcMU40w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/qubani ka meetha.zhbspof3ip.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\qubani ka meetha.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zhbspof3ip"},{"Name":"integrity","Value":"sha256-N/L2CL4qNY9YngseWZDut9ErJ4MVMtDibrI\u002BRcMU40w="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/qubani ka meetha.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27210"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N/L2CL4qNY9YngseWZDut9ErJ4MVMtDibrI\u002BRcMU40w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/raspberry-sorbet.bs7r7xrsxw.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\raspberry-sorbet.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bs7r7xrsxw"},{"Name":"integrity","Value":"sha256-K5scs3Qw5AEjVA7yxzbMtOS\u002B/yNOhQjt9deHuW9ANoI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/raspberry-sorbet.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"123416"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022K5scs3Qw5AEjVA7yxzbMtOS\u002B/yNOhQjt9deHuW9ANoI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/raspberry-sorbet.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\raspberry-sorbet.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-K5scs3Qw5AEjVA7yxzbMtOS\u002B/yNOhQjt9deHuW9ANoI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"123416"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022K5scs3Qw5AEjVA7yxzbMtOS\u002B/yNOhQjt9deHuW9ANoI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/RavaIdli.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\RavaIdli.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l/n/gN/hvgRKR/TQUWSR\u002BfOvCfbhTyJjd91pFLMIIHc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142889"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l/n/gN/hvgRKR/TQUWSR\u002BfOvCfbhTyJjd91pFLMIIHc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/RavaIdli.n0k9gjni6d.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\RavaIdli.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n0k9gjni6d"},{"Name":"integrity","Value":"sha256-l/n/gN/hvgRKR/TQUWSR\u002BfOvCfbhTyJjd91pFLMIIHc="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/RavaIdli.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142889"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l/n/gN/hvgRKR/TQUWSR\u002BfOvCfbhTyJjd91pFLMIIHc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/roshogolla.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\roshogolla.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FeYagqi5Ytm4n1I8cZCDNuKYv/q1rThy8B06/2uIZaA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"38712"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022FeYagqi5Ytm4n1I8cZCDNuKYv/q1rThy8B06/2uIZaA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/roshogolla.zykbfz8y7p.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\roshogolla.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zykbfz8y7p"},{"Name":"integrity","Value":"sha256-FeYagqi5Ytm4n1I8cZCDNuKYv/q1rThy8B06/2uIZaA="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/roshogolla.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38712"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022FeYagqi5Ytm4n1I8cZCDNuKYv/q1rThy8B06/2uIZaA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/sali boti.dp27cckcjj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sali boti.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dp27cckcjj"},{"Name":"integrity","Value":"sha256-cYVf8pK2k0x8uRWD2L3u8oLMR3wOsjocUszXt1AR\u002B4o="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/sali boti.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cYVf8pK2k0x8uRWD2L3u8oLMR3wOsjocUszXt1AR\u002B4o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/sali boti.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sali boti.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cYVf8pK2k0x8uRWD2L3u8oLMR3wOsjocUszXt1AR\u002B4o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"132273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cYVf8pK2k0x8uRWD2L3u8oLMR3wOsjocUszXt1AR\u002B4o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/samosa.imlurylprt.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\samosa.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"imlurylprt"},{"Name":"integrity","Value":"sha256-BuTc8VWVlabpc4zuJ5lm77iOC/2AY8sVrPyp/qPH4ss="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/samosa.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75586"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022BuTc8VWVlabpc4zuJ5lm77iOC/2AY8sVrPyp/qPH4ss=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/samosa.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\samosa.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BuTc8VWVlabpc4zuJ5lm77iOC/2AY8sVrPyp/qPH4ss="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"75586"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022BuTc8VWVlabpc4zuJ5lm77iOC/2AY8sVrPyp/qPH4ss=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/sandesh.5hhzbaxoqx.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sandesh.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5hhzbaxoqx"},{"Name":"integrity","Value":"sha256-x1k9JdyMbLvsQNGMpsT/GvE/Q0nT4PZ8k8pB3CcB6Kg="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/sandesh.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49605"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022x1k9JdyMbLvsQNGMpsT/GvE/Q0nT4PZ8k8pB3CcB6Kg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/sandesh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\sandesh.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x1k9JdyMbLvsQNGMpsT/GvE/Q0nT4PZ8k8pB3CcB6Kg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49605"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022x1k9JdyMbLvsQNGMpsT/GvE/Q0nT4PZ8k8pB3CcB6Kg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/seafood-platter.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\seafood-platter.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2UnE35KJkEtXYyWmwrvfk6p0vicKiVF7ipTpYq0sRUI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"266542"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222UnE35KJkEtXYyWmwrvfk6p0vicKiVF7ipTpYq0sRUI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/seafood-platter.tzla4u0466.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\seafood-platter.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tzla4u0466"},{"Name":"integrity","Value":"sha256-2UnE35KJkEtXYyWmwrvfk6p0vicKiVF7ipTpYq0sRUI="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/seafood-platter.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"266542"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222UnE35KJkEtXYyWmwrvfk6p0vicKiVF7ipTpYq0sRUI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/shahi-tukda.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shahi-tukda.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BPqTKiFVUsgl5lR\u002B6dlaXpFdBhu8Zhd016VUHvm\u002Bv8w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164507"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BPqTKiFVUsgl5lR\u002B6dlaXpFdBhu8Zhd016VUHvm\u002Bv8w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/shahi-tukda.kpm82h3utg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shahi-tukda.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kpm82h3utg"},{"Name":"integrity","Value":"sha256-\u002BPqTKiFVUsgl5lR\u002B6dlaXpFdBhu8Zhd016VUHvm\u002Bv8w="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/shahi-tukda.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164507"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BPqTKiFVUsgl5lR\u002B6dlaXpFdBhu8Zhd016VUHvm\u002Bv8w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Sheer-Khurma.9onu6mb65n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sheer-Khurma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9onu6mb65n"},{"Name":"integrity","Value":"sha256-WeGVCFoMHnRng5cC/qWbJ15SBr/Mi0crRbn7WtqMLuo="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/Sheer-Khurma.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"91338"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WeGVCFoMHnRng5cC/qWbJ15SBr/Mi0crRbn7WtqMLuo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/Sheer-Khurma.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Sheer-Khurma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WeGVCFoMHnRng5cC/qWbJ15SBr/Mi0crRbn7WtqMLuo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"91338"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WeGVCFoMHnRng5cC/qWbJ15SBr/Mi0crRbn7WtqMLuo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/shorshe ilish.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shorshe ilish.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XQ1r6R1\u002BunWpnPcmu61X\u002BaXWlVifIDWcmatLkYPOnqc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"365069"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XQ1r6R1\u002BunWpnPcmu61X\u002BaXWlVifIDWcmatLkYPOnqc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/shorshe ilish.zcdcghry6n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shorshe ilish.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zcdcghry6n"},{"Name":"integrity","Value":"sha256-XQ1r6R1\u002BunWpnPcmu61X\u002BaXWlVifIDWcmatLkYPOnqc="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/shorshe ilish.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"365069"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XQ1r6R1\u002BunWpnPcmu61X\u002BaXWlVifIDWcmatLkYPOnqc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/tandoori roti.cvfh0yb26f.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tandoori roti.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cvfh0yb26f"},{"Name":"integrity","Value":"sha256-mGIaDehSa3ly4dK/s/9YR12RLJq8qiuNWIamG8421k0="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/tandoori roti.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"172008"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mGIaDehSa3ly4dK/s/9YR12RLJq8qiuNWIamG8421k0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/tandoori roti.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tandoori roti.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mGIaDehSa3ly4dK/s/9YR12RLJq8qiuNWIamG8421k0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"172008"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mGIaDehSa3ly4dK/s/9YR12RLJq8qiuNWIamG8421k0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/tiramisu.icy9t801vc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tiramisu.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"icy9t801vc"},{"Name":"integrity","Value":"sha256-IrOANu7DGuZBKQcyEq93Qe28FrU3J/Ac\u002BeY5jj7KPqg="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/tiramisu.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11832"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IrOANu7DGuZBKQcyEq93Qe28FrU3J/Ac\u002BeY5jj7KPqg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/tiramisu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tiramisu.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IrOANu7DGuZBKQcyEq93Qe28FrU3J/Ac\u002BeY5jj7KPqg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11832"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IrOANu7DGuZBKQcyEq93Qe28FrU3J/Ac\u002BeY5jj7KPqg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/toit.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\toit.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2I7qtSixeEVhL8l8\u002B\u002BWXHRWO1YY5AYfG3Xl9MKwiCgU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"125534"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222I7qtSixeEVhL8l8\u002B\u002BWXHRWO1YY5AYfG3Xl9MKwiCgU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/toit.sfa8kh7jbz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\toit.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sfa8kh7jbz"},{"Name":"integrity","Value":"sha256-2I7qtSixeEVhL8l8\u002B\u002BWXHRWO1YY5AYfG3Xl9MKwiCgU="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/toit.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"125534"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222I7qtSixeEVhL8l8\u002B\u002BWXHRWO1YY5AYfG3Xl9MKwiCgU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/tom yum soup.fd3aqn91i5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tom yum soup.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fd3aqn91i5"},{"Name":"integrity","Value":"sha256-kxVS57cCKLsWdg/FSt3lZbm9Cgp\u002BA8bG\u002BKV2cuv2Z0A="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/tom yum soup.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"181922"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kxVS57cCKLsWdg/FSt3lZbm9Cgp\u002BA8bG\u002BKV2cuv2Z0A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/tom yum soup.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tom yum soup.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kxVS57cCKLsWdg/FSt3lZbm9Cgp\u002BA8bG\u002BKV2cuv2Z0A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"181922"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kxVS57cCKLsWdg/FSt3lZbm9Cgp\u002BA8bG\u002BKV2cuv2Z0A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/truffled-mac-cheese.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\truffled-mac-cheese.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gc8DP1P55ATW/q1iLSDx4ao\u002BdWaZN376ZvOGYWQbNqg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"202542"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022Gc8DP1P55ATW/q1iLSDx4ao\u002BdWaZN376ZvOGYWQbNqg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/truffled-mac-cheese.zt7138pbkw.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\truffled-mac-cheese.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zt7138pbkw"},{"Name":"integrity","Value":"sha256-Gc8DP1P55ATW/q1iLSDx4ao\u002BdWaZN376ZvOGYWQbNqg="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/truffled-mac-cheese.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"202542"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022Gc8DP1P55ATW/q1iLSDx4ao\u002BdWaZN376ZvOGYWQbNqg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/vada-pav.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\vada-pav.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c0vH994CeLPNKH6shaxzWS2tXVNj2Jedtuo0Kn7tn0c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"109815"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c0vH994CeLPNKH6shaxzWS2tXVNj2Jedtuo0Kn7tn0c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/vada-pav.twvcwufdxs.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\vada-pav.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"twvcwufdxs"},{"Name":"integrity","Value":"sha256-c0vH994CeLPNKH6shaxzWS2tXVNj2Jedtuo0Kn7tn0c="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/vada-pav.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"109815"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c0vH994CeLPNKH6shaxzWS2tXVNj2Jedtuo0Kn7tn0c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/vada.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\vada.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UR4PxeH0b9a/jgsOZC9bxFFWUMAKW1nAKQsh09s2a/E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"129521"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UR4PxeH0b9a/jgsOZC9bxFFWUMAKW1nAKQsh09s2a/E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/vada.vcmetv6gv2.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\vada.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vcmetv6gv2"},{"Name":"integrity","Value":"sha256-UR4PxeH0b9a/jgsOZC9bxFFWUMAKW1nAKQsh09s2a/E="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/vada.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"129521"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UR4PxeH0b9a/jgsOZC9bxFFWUMAKW1nAKQsh09s2a/E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/vegetable biryani.45ugo40l1m.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\vegetable biryani.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"45ugo40l1m"},{"Name":"integrity","Value":"sha256-aBu\u002BLPX3wmzUbHKNNRVAJYNyMyx7aZORRlZVmhEF4Es="},{"Name":"label","Value":"_content/FakeRestuarantAPI/images/vegetable biryani.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"161270"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aBu\u002BLPX3wmzUbHKNNRVAJYNyMyx7aZORRlZVmhEF4Es=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/images/vegetable biryani.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\vegetable biryani.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aBu\u002BLPX3wmzUbHKNNRVAJYNyMyx7aZORRlZVmhEF4Es="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"161270"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aBu\u002BLPX3wmzUbHKNNRVAJYNyMyx7aZORRlZVmhEF4Es=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/index.6oo74z0o31.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6oo74z0o31"},{"Name":"integrity","Value":"sha256-Wpcid/LG78TW2WlPsyYIRJsm6xlkQUQ3DiXBRFi3iKo="},{"Name":"label","Value":"_content/FakeRestuarantAPI/index.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4455"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Wpcid/LG78TW2WlPsyYIRJsm6xlkQUQ3DiXBRFi3iKo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/index.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Wpcid/LG78TW2WlPsyYIRJsm6xlkQUQ3DiXBRFi3iKo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4455"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Wpcid/LG78TW2WlPsyYIRJsm6xlkQUQ3DiXBRFi3iKo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/Index.e7mqsyxa9g.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e7mqsyxa9g"},{"Name":"integrity","Value":"sha256-FhkdqpkUxk6cIlchRdlV3s5wqKiGCU\u002BCtdleC23Jdd4="},{"Name":"label","Value":"_content/FakeRestuarantAPI/Index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4482"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FhkdqpkUxk6cIlchRdlV3s5wqKiGCU\u002BCtdleC23Jdd4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/Index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FhkdqpkUxk6cIlchRdlV3s5wqKiGCU\u002BCtdleC23Jdd4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4482"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FhkdqpkUxk6cIlchRdlV3s5wqKiGCU\u002BCtdleC23Jdd4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/wwwroot.aq53q9kmkc.rar">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\wwwroot.rar'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aq53q9kmkc"},{"Name":"integrity","Value":"sha256-PuLICHV7qA/783vkjMqsBp36D/jWKWcw4Oaz4GxX4Wg="},{"Name":"label","Value":"_content/FakeRestuarantAPI/wwwroot.rar"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7190"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022PuLICHV7qA/783vkjMqsBp36D/jWKWcw4Oaz4GxX4Wg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FakeRestuarantAPI/wwwroot.rar">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\wwwroot.rar'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PuLICHV7qA/783vkjMqsBp36D/jWKWcw4Oaz4GxX4Wg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7190"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022PuLICHV7qA/783vkjMqsBp36D/jWKWcw4Oaz4GxX4Wg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:25:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

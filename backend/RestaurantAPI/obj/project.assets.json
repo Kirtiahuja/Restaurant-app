@@ -5145,11 +5145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keert\\OneDrive\\Desktop\\sample-app\\backend\\RestaurantAPI\\RestaurantAPI.csproj",
+      "projectUniqueName": "C:\\Users\\keert\\OneDrive\\Desktop\\Restaurant-app\\backend\\RestaurantAPI\\RestaurantAPI.csproj",
       "projectName": "RestaurantAPI",
-      "projectPath": "C:\\Users\\keert\\OneDrive\\Desktop\\sample-app\\backend\\RestaurantAPI\\RestaurantAPI.csproj",
+      "projectPath": "C:\\Users\\keert\\OneDrive\\Desktop\\Restaurant-app\\backend\\RestaurantAPI\\RestaurantAPI.csproj",
       "packagesPath": "C:\\Users\\keert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keert\\OneDrive\\Desktop\\sample-app\\backend\\RestaurantAPI\\obj\\",
+      "outputPath": "C:\\Users\\keert\\OneDrive\\Desktop\\Restaurant-app\\backend\\RestaurantAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

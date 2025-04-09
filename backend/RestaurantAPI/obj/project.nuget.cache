@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FA9R41CnHyM=",
+  "dgSpecHash": "25Ff5c1GvrU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\keert\\OneDrive\\Desktop\\sample-app\\backend\\RestaurantAPI\\RestaurantAPI.csproj",
+  "projectFilePath": "C:\\Users\\keert\\OneDrive\\Desktop\\Restaurant-app\\backend\\RestaurantAPI\\RestaurantAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\keert\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\keert\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

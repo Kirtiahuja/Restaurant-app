@@ -1,0 +1,7 @@
+C:\Users\keert\source\repos\FakeRestaurantAPI\FakeRestaurantAPI\obj\Debug\net8.0\FakeRestaurantAPI.csproj.AssemblyReference.cache
+C:\Users\keert\source\repos\FakeRestaurantAPI\FakeRestaurantAPI\obj\Debug\net8.0\FakeRestaurantAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keert\source\repos\FakeRestaurantAPI\FakeRestaurantAPI\obj\Debug\net8.0\FakeRestaurantAPI.AssemblyInfoInputs.cache
+C:\Users\keert\source\repos\FakeRestaurantAPI\FakeRestaurantAPI\obj\Debug\net8.0\FakeRestaurantAPI.AssemblyInfo.cs
+C:\Users\keert\source\repos\FakeRestaurantAPI\FakeRestaurantAPI\obj\Debug\net8.0\FakeRestaurantAPI.csproj.CoreCompileInputs.cache
+C:\Users\keert\source\repos\FakeRestaurantAPI\FakeRestaurantAPI\obj\Debug\net8.0\FakeRestaurantAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\keert\source\repos\FakeRestaurantAPI\FakeRestaurantAPI\obj\Debug\net8.0\FakeRestaurantAPI.MvcApplicationPartsAssemblyInfo.cache

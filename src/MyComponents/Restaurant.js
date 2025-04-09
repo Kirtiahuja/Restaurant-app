@@ -1,38 +1,39 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
-export default function Restaurant(props){
-    var stars=[];
-    var rating=props.restaurant.rating;
-    for(let i=5;i>0;i--){
-        if(rating>0){
-            stars.push(<i className="fa-solid fa-star" style={{color:"#f1f50f"}}></i>);
-        }
-        else{
-            stars.push(<i className="fa-regular fa-star" style={{color:"#f1f50f"}}></i>);
-        }
-        rating--;
-    }
+export default function Restaurant({ restaurant }) {
+  const navigate = useNavigate();
+  const stars = [];
 
-    const navigate = useNavigate();
+  for (let i = 0; i < 5; i++) {
+    stars.push(
+      <i
+        key={i}
+        className={`fa-${i < restaurant.rating ? "solid" : "regular"} fa-star text-yellow-400`}
+      ></i>
+    );
+  }
 
-    return(
-        <>
-            <div className="col-lg-3 pt-1">
-                    <div className="box-shadow">
-                        <div className="card" onClick={() => navigate(`/restaurant/${props.restaurant.restaurantID}`)}>
-                            <img className="img-fluid card-img-top" style={{height:"200px", width:"300px"}} src={props.restaurant.imageUrl} alt=""/>
-                            {/* <div className="card-body"> */}
-                                <h5 className="card-title">{props.restaurant.restaurantName}</h5>
-                                <p className="card-text">
-                                    <span className="ms-2">{props.restaurant.type}</span>
-                                </p>
-                                    <span>
-                                        {stars}
-                                    </span>
-                            </div>
-                        </div>
-                    </div>
-        </>
-    )
+  return (
+    <div className="cursor-pointer">
+      <div
+        className="bg-white shadow-md rounded-lg overflow-hidden border"
+        onClick={() => navigate(`/restaurant/${restaurant.restaurantId}`)}
+      >
+        <img
+          className="w-full h-48 object-cover"
+          src={restaurant.imageUrl}
+          alt={restaurant.restaurantName}
+        />
+        <div className="p-4">
+          <h5 className="text-lg font-bold text-black">{restaurant.restaurantName}</h5>
+          <p className="text-sm text-gray-600">{restaurant.type}</p>
+          <div className="mt-2 flex items-center">
+            {stars}
+            <span className="ml-2 text-gray-600 font-light">{restaurant.rating}.0</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
 }

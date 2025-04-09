@@ -5,6 +5,7 @@ import MainPage from './MyComponents/MainPage.js';
 import RestaurantView from "./MyComponents/RestaurantView.js"; 
 import { useState,useEffect } from 'react';
 import Cart from './MyComponents/CartPage.js';
+import Login from './MyComponents/Login.js';
 
 function App() {
     const [cart,setCart]=useState(() => {
@@ -15,10 +16,10 @@ function App() {
     useEffect(() => {
         localStorage.setItem("cart", JSON.stringify(cart));
     }, [cart]);
+
   return (
     <div className="App">
       <Router>
-      <Header/>
       <div className="content">
       <Routes>
         <Route exact path="/" element={<MainPage/>}></Route>
@@ -26,6 +27,7 @@ function App() {
         <Route exact path="/cart" element={<Cart cart={cart} setCart={setCart}/>}></Route>
       </Routes>
       </div>
+      <Header/>
       </Router>
     </div>
   );

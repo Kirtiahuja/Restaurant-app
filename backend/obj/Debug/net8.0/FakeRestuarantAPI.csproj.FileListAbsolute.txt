@@ -349,3 +349,4 @@ C:\Users\keert\OneDrive\Desktop\sample-app\backend\obj\Debug\net8.0\refint\FakeR
 C:\Users\keert\OneDrive\Desktop\sample-app\backend\obj\Debug\net8.0\FakeRestuarantAPI.pdb
 C:\Users\keert\OneDrive\Desktop\sample-app\backend\obj\Debug\net8.0\FakeRestuarantAPI.genruntimeconfig.cache
 C:\Users\keert\OneDrive\Desktop\sample-app\backend\obj\Debug\net8.0\ref\FakeRestuarantAPI.dll
+C:\Users\keert\OneDrive\Desktop\sample-app\backend\obj\Debug\net8.0\FakeRestuarantAPI.sourcelink.json

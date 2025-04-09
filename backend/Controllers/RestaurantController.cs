@@ -27,7 +27,7 @@ namespace FakeRestuarantAPI.Controllers
     {
         Random random = new Random();
         var menu = new List<Rest_with_img>();
-        var restaurants= await _context.Restaurant.OrderBy(r=>r.RestaurantName).ToListAsync();
+        var restaurants= await _context.Restaurant.OrderBy(r=>r.RestaurantID).ToListAsync();
         foreach(var rest in restaurants)
         {
                 
@@ -91,10 +91,10 @@ namespace FakeRestuarantAPI.Controllers
         public async Task<ActionResult> getmenu(int Restaurant_id)
         {
             var restaurant_exists= await _context.Restaurant.FirstOrDefaultAsync(r=>r.RestaurantID ==Restaurant_id);
-            if(restaurant_exists!= null)
-            {
-                //retrieve items from restaurant menu
-                var items= await _context.Item.Include(i => i.restaurant).Where(i=>i.RestaurantID==Restaurant_id).ToListAsync();
+            //if(restaurant_exists!= null)
+            //{
+            //retrieve items from restaurant menu
+            var items = await _context.Item.Include(i => i.restaurant).OrderBy(i=>i).ToListAsync();//.Include(i => i.restaurant).Where(i=>i.RestaurantID==Restaurant_id).ToListAsync();
 
                 //descending by price
                 //if(string.Equals(sortbyprice,"desc",StringComparison.OrdinalIgnoreCase))
@@ -108,13 +108,13 @@ namespace FakeRestuarantAPI.Controllers
                 //    items= items.OrderBy(i=>i.ItemPrice).ToList();
                 //}
 
-                var menu = items.Where(i=>i.RestaurantID== Restaurant_id).Select(i=>new GetItems{
+                var menu = items/*.Where(i=>i.RestaurantID== Restaurant_id).*/.Select(i=>new GetItems{
                     ItemID= i.ItemID,
                      ItemName= i.ItemName,
                     ItemDescription=i.ItemDescription,
                     ItemPrice=i.ItemPrice,
-                    RestaurantName=i.restaurant.RestaurantName,
-                    RestaurantID= Restaurant_id,
+                    //RestaurantName=i.restaurant.RestaurantName,
+                    RestaurantID= i.restaurant.RestaurantID,
                     ImageUrl=$"{baseurl}{i.imageUrl}"
                    // restaurant= restaurant_exists
                    
@@ -122,9 +122,7 @@ namespace FakeRestuarantAPI.Controllers
                 }).ToList();
 
                 return Ok(menu);
-                
-
-            }
+               
             return StatusCode(404, $"No Restaurant Exists with id:{Restaurant_id}");
         }
 
